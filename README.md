@@ -106,10 +106,16 @@ In this section I want to show you how the contract tracks the limits and once h
 
 ![Oops, image not available](./Screenshots/kovan_deployer_13.png "Epoch converter")  
 
+> Attempting to purchase more WARD with even the smallest amount errors as the Crowdsale is closed!  
+
+![Oops, image not available](./Screenshots/kovan_deployer_15.png "Sale closed")  
+
 
 # Conclusion
-## Blah
-Blah
+I trust you found walking through these Crowdsale contract interactions useful and that you learnt something.
+
+Ethereum Improvement Proposals have led to a wonderful of standardised libraries and recommendations for implementing the creation of tokens, the structuring of Crowdsales, and all the great knowledge around these implementations contributed to and gained by the open source communicty.  Long may the good work of these communities, including OpenZeppelin and their contribution, continue!  
+
 
 # Acknowledgements and References
 - Remix has been used as the IDE for this little project
